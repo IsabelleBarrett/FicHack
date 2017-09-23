@@ -2,9 +2,13 @@ import tensorflow as tf
 
 sess = tf.Session()
 
-a = tf.placeholder(tf.string)
-b = tf.placeholder(tf.string)
+message = tf.placeholder(tf.string)
 
-concat_node = tf.string_join([a, b], " ")
+name = tf.Variable(["Steve", "Chris", "Alfred"], dtype= tf.string)
 
-print(sess.run(concat_node, {a: "hello", b: "world"}))
+concat_node = tf.string_join([message, name], " ")
+
+init = tf.global_variables_initializer()
+sess.run(init)
+
+print(sess.run(concat_node, {message: "hello"}))
