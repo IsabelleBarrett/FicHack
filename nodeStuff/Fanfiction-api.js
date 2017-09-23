@@ -9,8 +9,12 @@ module.exports = {
       var cheerio = require("cheerio")
       var $ = cheerio.load(body)
 
+      var authorHrefRegex = /[0-9]{7}/
+
       var fictionObject = {
-        title: $("#profile_top > b").text()
+        title: $("#profile_top > b").text(),
+        author: $("#profile_top > a").attr("href").match(authorHrefRegex)[0],
+
       }
 
       callback(fictionObject)
