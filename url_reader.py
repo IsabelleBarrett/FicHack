@@ -1,7 +1,7 @@
 import csv
 
 
-csvfile = open('urls.csv', 'rb')
+csvfile = open('urlsFixed.csv', 'rb')
 reader = csv.DictReader(csvfile)
 row = next(reader)
 
@@ -13,4 +13,5 @@ writer.writeheader()
 writer.writerow(row)
 
 for row in reader:
+	print(row["URL"])
 	writer.writerow(row)
