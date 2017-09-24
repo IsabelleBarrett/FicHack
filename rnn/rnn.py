@@ -45,8 +45,7 @@ def RNN(x, weights, biases):
     return tf.matmul(outputs[-1], weights["out"]) + biases["out"]
 
 pred = RNN(x, weights, biases)
-symbols_in_keys = [ dictionary[str(words[i])] for i in range(len(words)) ]
+symbols_in_keys = [ dictionary[str(words[i])] for i in range(3) ]
 for i in range(32):
     keys = np.reshape(np.array(symbols_in_keys), [-1, n_inputs, 1])
-
-# print(sess.run(pred, feed_dict={x: symbols_in_keys}))
+    print(sess.run(pred, feed_dict={x: keys}))
