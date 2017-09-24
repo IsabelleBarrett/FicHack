@@ -2,7 +2,9 @@ import requests
 import re
 import csv
 from bs4 import BeautifulSoup
+import sys
 
+sys.setrecursionlimit(1500)
 
 csvfile = open('urlsFixed.csv', 'rb')
 reader = csv.DictReader(csvfile)
@@ -15,6 +17,8 @@ writer = csv.DictWriter(output, row.keys())
 writer.writeheader()
 writer.writerow(row)
 
+fanfics  = open("outputfile",'a')
+
 for row in reader:
 	print(row["URL"])
 	writer.writerow(row)
@@ -25,11 +29,15 @@ for row in reader:
 	soup = BeautifulSoup(r.content, "html.parser")
 	result= soup.find("div", {"id": "storytext"})
 #parse contents with beautifulsoup and print only the text under "storytext" id
-	print result
+	
 	if result != None:
 		story = result.prettify
 		regex = re.compile( '\s*<[^>]+>\s*')
 		cleanedStory=regex.sub("\n",str(story))
 #cleans output of result.prettify to remove tags
-
+		
+		fanfics.write(cleanedStory)
 		print cleanedStory
+
+
+		
