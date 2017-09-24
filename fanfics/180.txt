@@ -1,0 +1,152 @@
+
+
+For Fandom Stocking 2013. Academy Fic.
+
+
+Nyota decides by the end of the term that Team Building Exercises for Command and Operations Personnel is a poorly named class. A better title would be 'Catastrophic Scenarios That Make You Break Into a Cold Sweat at the Mere Thought of Them', or maybe 'Think Your Way Out of
+This
+One, Cadet'. Of course, then they'd never sucker anyone into taking it, so it makes sense the name is bland and innocuous.
+
+She's sure the misleading name is in part due to the teaching philosophy of Professor Xu, an older Human woman from Shanghai with close cropped, black hair, an operatic voice you can hear anywhere in the lecture hall, and a backbone of solid steel. She's of the opinion that you can study schematics and charts and tables and probabilities and run statistics all you like, but at the end of the day what really helps you get a feel for figuring things out is being given a problem and needing to solve it with random people in a limited amount of time. Their careers are going to be full of these sorts of things, she says, so they should get used to it now.
+
+Thus far Nyota's been lucky in the class; for all of the assignments she's been paired with someone she knows and isn't offended by, or doesn't know and doesn't mind.
+
+Not so this time.
+
+"So," Kirk says, leaning against the bench with a gleam in his eye. "Do you want to win this?"
+
+'This' is the course final, and Xu notoriously makes it a bit of a contest. Finishing first gets your name on a plaque she keeps in her office, the academy-wide fame of doing that well in the class, and letters of recommendation from her for the rest of your career.
+
+Nyota is about to kiss all of that goodbye and dismiss Kirk's question in some flippant manner or another when she catches the look on his face and pulls up short. She studies him. "You're serious."
+
+"I am."
+
+She arches an eyebrow. "Someone made a bet with you? Is your reputation on the line?"
+
+"Winning bets is just a fringe benefit." He snorts and flashes his teeth. "And
+which
+reputation, I must have six different ones now."
+
+"Just six?"
+
+"Maybe it's up to seven."
+
+Nyota thinks about it. For all that he can be an incredible pain in the ass and is as devil-may-care as they come, his grades are (to all reports) phenomenal, and he's even broken a few records here and there. If she replaced his name with Some Guy on the class roster, he'd be her number two choice, right behind Gaila.
+
+Who, she sees, has been paired with Gary Mitchell, and damn if that's not going to be a tough act to beat.
+
+Nyota looks down at her tablet and the schematic laid out on it. "How long can you hold your breath?"
+
+Kirk's eyes narrow as he considers her question, and after a moment he smiles. "Long enough to get through the airlock's access hatch."
+
+Nyota pushes her tablet out so he can see it and he leans in. "I have an idea, but we need to overload this relay." She taps at a spot she's marked in red.
+
+"And the easiest place to do that is via the secondary subsystem, which we can get to through this panel," he points at a section, and it too highlights in red, "in the airlock."
+
+"Right. But you need to be inside it, and I doubt they're giving us the door code."
+
+"I can put together something to hack the lock."
+
+"Under water and before you drown?"
+
+He nods, and she's never seen him look so serious. She's careful to keep her thoughts off her face; the last thing she wants is for them to flub this in epic fashion while everyone's watching, or worse yet, for him to
+die
+while they flub it, and based on everything she knows about him that's an actual possibility (as insane as killing oneself for an academic assignment seems on the face of it). Still, if there is a single person in the academy willing and able to pull off a stunt like this, it's her current assignment partner.
+
+She indicates the central terminal on the schematic, which will be represented by bench terminals at the test site. "If you can do that, I should be able to do everything I need to from there."
+
+Kirk takes out his tablet and pulls up a diagram of the simulated underwater station's computer system. "Which means I take our one tablet, and use it in there."
+
+"Right."
+
+He sweeps through a few modules. "We can use the rest of this class session to map everything out. I'll put together a program to hack the airlock tonight."
+
+She reminds herself that he's a grown man who can make his very own dumb decisions, and they set to it.
+
+
+When she arrives at the practical site (a derelict water purification plant that Starfleet took over years ago to use for simulations like this one) he's already there, and she can tell he's wearing something under his uniform by the awkward way it sits on him. He has a minitablet with him, the sort with as much computing power and capacity as the older ones given to all of the students in half the size and weight, and it's been stuffed into a waterproof case.
+
+"You ready?"
+
+He nods, tapping at the case. The tablet behaves as if the plastic weren't there, and she has to wonder how he's pulled
+that
+off. "Yeah. The tablet passed muster with Xu."
+
+She narrows her eyes. "It's not running a normal operating system, is it."
+
+Kirk bobs his eyebrows at her and replies, "Do you like apples?"
+
+"What?"
+
+"Apples. You're not allergic or anything, are you?"
+
+Try as she might, Nyota cannot possibly understand where he's going with this. "Yes. I mean, I like them fine. What does that have to do with your tablet?"
+
+"Everything," Kirk assures her. She wants to ask more, but Professor Xu is walking up to the front of the hall. She gives her usual speech about the academic code of ethics, a reminder of the rules, and then cuts them loose.
+
+She and Kirk have a few minor details to see to before their show begins, such as syncing his tablet to their simulated main terminal and getting the software she'll be using in place. That only takes them a few minutes, and then they're on to the spectacle.
+
+More than a few heads turn when Kirk slips out of his cadet's uniform and reveals a dark blue and gray wet suit. The rest turn when he climbs the ladder to the tank with a minitablet in a waterproof case strapped to one wrist and drives in.
+
+He's at the airlock door and has his tablet set to breaking the access protocols in under a minute. By the time minute three rolls around, she's getting a little nervous (numerous other people have started making various gestures of concern or anxiety), and a collective sigh of relief (or maybe it's amazement) fills the room when the door's lock goes from red to green and it slides open.
+
+Cycling the airlock from the inside doesn't require further access. Kirk takes a deep breath as soon as he can; it's not quite a gasp, and Nyota stifles any reaction. He pries open the center panel and pulls his tablet up, and starts in on his real work.
+
+No one in the room is working on anything now except for her. Her hands glide over her small display, releasing this lock and bypassing that protocol, and minutes later Kirk has wound his way through the fake labyrinth of colony tunnels and is striding through the room, his wet suit dripping on the floor. He walks up to Professor Xu and offers the datapack, and Nyota thanks whatever universal forces there are to thank that his expression is completely devoid of smugness or pride. In fact, he just seems calm and determined.
+
+Xu makes him wait. Then she accepts the cylinder, examines it, and nods. "Cadets Uhura and Kirk finish first." Her eyes sweep the room, expectant, and everyone else rushes back to their own practicals, intent on them. Even if they can't do the same thing Nyota and Kirk have, there are hints to be garnered from their methods. (Nyota is sure she saw Gaila taking notes at a furious pace, and suspects she and Mitchell will finish if not second at least in the top five.)
+
+Once Xu isn't watching him, Kirk lets his elation at their triumph show. He saunters (
+really
+saunters) over to Nyota, leans down to his bag, and pulls something out: a pair of apples. He offers her one, and she accepts it.
+
+"Nice work," he says, and bites in. She wonders if this is some sort of ritual for him with relevant meaning, then decides she doesn't really want to know, because knowing him it's a convoluted story and will only further convince her that while he is a genius, he is also certifiably insane.
+
+She takes a bite; it's a tart apple, bright and crisp and firm. "You too," she says. "So. What did this get you?"
+
+"Mitchell owes me a bottle of his dad's next vintage. They've got a winery somewhere south of here. McCoy has to let me sleep in at
+least
+three days in a row." His eyes stray to Gaila, who is coming towards them. Nyota sees Professor Xu speaking with Mitchell, which means they did, in fact, come in second. "And I think I'll be using all three of those days starting tonight," he finishes, just as Gaila grabs him by the hair and drags him into a kiss.
+
+Once she lets him go, Gaila says, "You're a goddamned cheat, hacking the airlock," then frowns at Nyota, though there's no real threat in her expression. "Was that your idea?"
+
+"It was just my idea he find a way into it, he's the one who decided to hack it."
+
+"Hey, it's not cheating-Xu said we passed, therefor exploiting the holes in their shitty security was completely acceptable."
+
+"Yeah? You planning to hack your way through the chain of command too?"
+
+Kirk leans into Gaila, his eyes flashing. "Working on it," he says, intent on another kiss, and Gaila is interested right up until the last second, when she suddenly shoves him away.
+
+"Ugh! You look nice in the wet suit, but you're getting my uniform wet." She glances between them, hopeful. "Is this your last class for the day? We should celebrate! There's a new club in downtown, the tram goes right by it."
+
+Kirk raises his eyebrows at Nyota. "Shall we?"
+
+She picks up the towel they brought and throws it at him. "Go change."
+
+
+The club is loud and colorful and active. Kirk buys the first round. Nyota savors the moment of unwinding and relaxing amidst the noise and bustle; some of their classmates area also there, celebrating their passing grades, and they swing by to congratulate them and try to wheedle their secrets out of them. She's more forthcoming than Kirk, who teases but never reveals his methods in their entirety.
+
+As they wait for Gaila, Nyota finally asks, "So. Why
+did
+you want to win?"
+
+He runs a hand through his hair. "To see the look on everyone's faces. They all think I'm a fuckup, that I can't possibly live up to my dad's standard-like that's something I should have to do anyways." He knocks back his shot and chases it with a sip of beer. "I'm not my dad, I'm me, and I'm going to do this
+my
+way. Sometimes, they all need to be reminded of that." And though he doesn't say it, she sees in his eyes that on occasion he needs to remind himself of it too.
+
+Nyota considers her beer. "Do you really care that much about what they think?"
+
+"If I want to make captain, I have to." He grins in that toothy way of his. "Making sure they have something other than my dad to associate with my name is job number one at the moment."
+
+She nods in agreement. It's true that there's politics and diplomacy to play at when rising through the ranks, and while she's not sure Kirk would know diplomacy if it bought him a drink and propositioned him, she
+is
+sure politics is something he can handle.
+
+"Well. Congratulations on reminding them while sauntering around in a wet suit," she says, and raises her glass. He taps his bottle to it and has a drink.
+
+"At least I wasn't naked."
+
+Nyota rolls her eyes.
+
+>
