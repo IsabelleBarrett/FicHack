@@ -1,14 +1,19 @@
 import tensorflow as tf
+import collections
 
 sess = tf.Session()
 
-message = tf.placeholder(tf.string)
+def build_dataset(words):
+    count = collections.Counter(words).most_common()
+    dictionary = dict()
 
-name = tf.Variable(["Steve", "Chris", "Alfred"], dtype= tf.string)
+    for word in count:
+        dictionary[word] = len(dictionary)
+    reverse_dictionary = dict(zip(dictionary.values(), dictionary.keys()))
 
-concat_node = tf.string_join([message, name], " ")
+    return dictionary, reverse_dictionary
 
-init = tf.global_variables_initializer()
-sess.run(init)
+import re
+words = re.findall(r'\w+', open('sample.txt').read().lower())
 
-print(sess.run(concat_node, {message: "hello"}))
+print(build_dataset(words)[0])
